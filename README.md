@@ -6,3 +6,4 @@ Per inserire le entries della giornata è presente un form con il titolo della e
 Dopo di che dopo aver premuto invio si dovrebbe creare una lista di queste entries con la possibilità di modificarle e un tasto elimina.
 Sono presenti anche filtri in base a data, mood della giornata e valutazione complessiva della giornata.
 Vi è anche un contatore che segna le giornate positive, avarage e negativa.
+Le entries avranno icone e colori diversi in base alle opzioni scelte.
